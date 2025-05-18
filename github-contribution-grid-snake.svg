@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="100%" height="100%" viewBox="0 0 1000 100">
+  <defs>
+    <linearGradient id="gradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#ff0000" />
+      <stop offset="50%" stop-color="#00ff00" />
+      <stop offset="100%" stop-color="#0000ff" />
+    </linearGradient>
+  </defs>
+  <rect width="100%" height="100%" fill="#0d1117" />
+  <text x="50%" y="50%" text-anchor="middle" dominant-baseline="middle" font-family="monospace" font-size="14" fill="url(#gradient)">
+    Loading contribution graph...
+  </text>
+</svg> 
