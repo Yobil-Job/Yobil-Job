@@ -87,7 +87,7 @@
 
 <div align="center">
   <a href="https://eyobweldetensay.netlify.app/" target="_blank">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=40&pause=1000&color=94B4A4&center=true&vCenter=true&width=620&height=100&lines=Visit+My+Portfolio;eyobweldetensay.netlify.app" alt="Portfolio Link" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=40&pause=1000&color=94B4A4&center=true&vCenter=true&width=650&height=100&lines=Visit+My+Portfolio;eyobweldetensay.netlify.app;CLICK+ME" alt="Portfolio Link" />
   </a>
 </div>
 
