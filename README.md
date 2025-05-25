@@ -149,12 +149,9 @@
 <div align="center">
   <h3>Credits</h3>
   <p>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1000&color=94B4A4&center=true&vCenter=true&width=600&height=50&lines=Profile+Design+Inspired+By;Customized+by+Eyob+Weldetensay" alt="Credits" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1000&color=94B4A4&center=true&vCenter=true&width=600&height=50&lines=Profile+Design+Inspired+and;Customized+by+Eyob+Weldetensay" alt="Credits" />
   </p>
   <p>
-    <a href="https://github.com/JayantGoel001/JayantGoel001" target="_blank">
-      <img src="https://img.shields.io/badge/Original_Design-Jayant_Goel-94B4A4?style=for-the-badge&logo=github" alt="Original Design" />
-    </a>
     <a href="https://github.com/yobil-job" target="_blank">
       <img src="https://img.shields.io/badge/Customized_by-Eyob_Weldetensay-94B4A4?style=for-the-badge&logo=github" alt="Customized By" />
     </a>
