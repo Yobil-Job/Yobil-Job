@@ -212,7 +212,7 @@
 ---
 
 <div align="center">
-  <a href="https://eyobweldetensay.netlify.app/" target="_blank">
+  <a href="https://eyobweldetensayyy.netlify.app/" target="_blank">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=94B4A4&center=true&vCenter=true&width=600&height=60&lines=🌐+Visit+My+Portfolio+→+eyobweldetensay.netlify.app" alt="Portfolio"/>
   </a>
 </div>
