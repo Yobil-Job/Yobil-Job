@@ -230,7 +230,7 @@
     <img height="55" width="55" src="https://img.icons8.com/color/48/gmail-new.png" title="Gmail"/>
   </a>
   &nbsp;&nbsp;
-  <a href="www.linkedin.com/in/eyob-weldetensay-a68160254" target="_blank">
+  <a href="https://linkedin.com/in/eyob-weldetensay-a68160254" target="_blank">
     <img height="55" width="55" src="https://img.icons8.com/color/48/linkedin.png" title="LinkedIn"/>
   </a>
   &nbsp;&nbsp;
