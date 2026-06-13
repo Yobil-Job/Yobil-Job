@@ -13,9 +13,9 @@
 <img align="right" height="240" width="380" alt="coding gif" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"/>
 
 ### 🧑‍💻 About Me
+- 🌐 portfolio   <a href="https://my-portfolio-website-2026-blond.vercel.app/" target="_blank">my-portfolio-website-2026-blond.vercel.app</a>
 - 🎓 4th-year **Software Engineering** student @ Arba Minch Institute of Technology
 - 🔭 Building **[Famlytica AI](https://github.com/yobil-job)** — 13 Spring Boot modules, 60+ REST endpoints, cross-module AI architecture
-- 🏆 **Ranked #1** by two independent PhD-led panels at a national AI innovation competition
 - 🌱 Deepening skills in **Spring AI · Distributed Systems · Docker · Kubernetes**
 - 👯 Open to collaborating on **AI infrastructure, financial inclusion & civic tech**
 - ⚡ *"Code is like prayer — structured intention that brings something to life."*
